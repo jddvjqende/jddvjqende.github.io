@@ -7,14 +7,30 @@
 body {
  
     margin: 0;
-    background: linear-gradient(rgba(29, 29, 240, 0.727) 30px, rgb(238, 233, 233))
+    background: linear-gradient(rgba(77, 77, 231, 0.919) , rgb(11, 248, 240), rgba(249, 245, 245, 0.971))
+    
+ 
+         
 }
-h1,h2{
+h1{
     font-family: 'Alfa Slab One', cursive;
+    border-block-start-style: dotted; 
+    writing-mode: horizontal-tb;
+    padding: 6px;
 }
 p{
     font-family: 'Alfa Slab One', cursive;
 font-family: 'Passion One', cursive;
+border: dashed rgb(123, 116,116, 0.598);
 }
 
+#imagen{
 
+    width: 89%;
+}
+h2{
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
